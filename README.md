@@ -1,2 +1,3 @@
-# leapduino
-leapduino
+# leapmotion & Arduino
+
+leapmotion & Arduino
